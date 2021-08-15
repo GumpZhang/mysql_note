@@ -1,4 +1,5 @@
-<img src="C:\Users\GUMP\Downloads\bufferpool.svg" alt="bufferpool" style="zoom: 67%;" />
+
+![image](https://user-images.githubusercontent.com/48038568/129479607-5e9d0783-8199-4174-a978-d72fccd1ce3e.png)
 
 1. Free链表：对应buffer pool的空白页
 
